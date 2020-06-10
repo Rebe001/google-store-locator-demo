@@ -1,20 +1,19 @@
 ## Table of contents
-* [General info](#general-info)
+* [Overview](#overview)
 * [How it works](#how-it-works)
 * [Technologies](#technologies)
 * [Project infrastructure](#project-infrastructure)
 
----
+
 # Google Store Locator App Demo
 
 ## Overview
-This demo is simple Starbuck Store Locator in Google Map using [Google Javascript API] (https://developers.google.com/maps/documentation/javascript/tutorial)
+This demo is simple Starbuck Store Locator in Google Map using [Google Javascript API](https://developers.google.com/maps/documentation/javascript/tutorial/)
 
 [Go to live demo](https://rebecca-li-portfolio.imfast.io/google-store-locator/)
 	
 
 
-___
 ## Technologies
 Project is created with:
 * Google Api
@@ -23,7 +22,8 @@ Project is created with:
 * Html
 	
 
-___
+
+
 ## How it works
 1. When you open the app, you will land to google map where it shows all Starbuck store locators
 2. You can search by inputting zip code in search bar
@@ -34,7 +34,7 @@ ___
 
 
 
-___
+
 ## Project infrastructure
 	google store locator/
 		assets/
@@ -53,6 +53,6 @@ ___
    
 
 
-___     
-Contributor: Rebecca
-Date: 10/06/2020
+   
+* Contributor: Rebecca
+* Date: 10/06/2020
