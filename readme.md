@@ -1,11 +1,13 @@
+# Google Store Locator App Demo
+
+
+
 ## Table of contents
 * [Overview](#overview)
 * [How it works](#how-it-works)
 * [Technologies](#technologies)
 * [Project infrastructure](#project-infrastructure)
 
-
-# Google Store Locator App Demo
 
 ## Overview
 This demo is simple Starbuck Store Locator in Google Map using [Google Javascript API](https://developers.google.com/maps/documentation/javascript/tutorial/)
